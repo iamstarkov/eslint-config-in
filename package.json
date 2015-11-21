@@ -1,5 +1,5 @@
 {
-  "name": "eslint-in-config",
+  "name": "eslint-config-in",
   "version": "1.0.0",
   "description": "",
   "main": ".eslintrc.js",
